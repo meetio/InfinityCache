@@ -1,5 +1,5 @@
 {
-  "name": "morilog/infinity-cache",
+  "name": "meetio/infinity-cache",
   "type": "library",
   "keywords": [
     "Laravel",
@@ -25,13 +25,17 @@
   "license": "MIT",
   "authors": [
     {
+      "name": "Johan Nordström",
+      "email": "johan@getmeetio.com"
+    },
+    {
       "name": "Morteza Parvini",
       "email": "m.parvini@outlook.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "Morilog\\InfinityCache\\": "src/"
+      "Meetio\\InfinityCache\\": "src/"
     }
   }
 }

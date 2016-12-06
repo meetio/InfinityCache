@@ -1,5 +1,5 @@
 <?php
-namespace Morilog\InfinityCache;
+namespace Meetio\InfinityCache;
 
 use Illuminate\Cache\TaggableStore;
 use Illuminate\Contracts\Cache\Repository;
